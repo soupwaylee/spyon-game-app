@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Spyon</string>
+    <string name="start_new_game">Start New Game</string>
+    <string name="get_instructions">Instructions</string>
 </resources>
