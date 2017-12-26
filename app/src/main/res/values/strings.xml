@@ -3,4 +3,7 @@
     <string name="start_new_game">Start New Game</string>
     <string name="get_instructions">Instructions</string>
     <string name="welcome_to_spyon">Welcome to Spyon!</string>
+    <string name="Confirm">Confirm</string>
+    <string name="number_of_players">Number of players</string>
+    <string name="cancel">Cancel</string>
 </resources>
